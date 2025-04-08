@@ -1,6 +1,6 @@
 # Shaan Ali Remani
 
-Quantitative researcher-in-training with a background in mathematics and philosophy. My work centres on financial modelling under uncertainty, ideally where fashionable methods fail and assumptions matter.
+Quant-in-training with a background in mathematics and philosophy. My work centres on financial modelling under uncertainty, ideally where fashionable methods fail and assumptions matter.
 
 Currently completing an MSc in Mathematical Trading and Finance at Bayes Business School. President of the Quantitative Finance Society.
 
